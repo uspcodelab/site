@@ -9,7 +9,7 @@
         <b-nav-item to="/" v-scroll-to="'#dev-journey'">dev.journey()</b-nav-item>
         <b-nav-item to="/" v-scroll-to="'#code-schools'">CodeSchools</b-nav-item>
         <b-nav-item to="/" v-scroll-to="'#hackathon-usp'">HackathonUSP</b-nav-item>
-        <b-nav-item to="updates">Monthly Updates</b-nav-item>
+        <b-nav-item to="updates">Transparência</b-nav-item>
         <b-nav-item to="/" v-scroll-to="'#footer'">Contato</b-nav-item>
       </b-navbar-nav>
     </b-collapse>

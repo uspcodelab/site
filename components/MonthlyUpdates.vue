@@ -2,7 +2,7 @@
   <b-row id="dev-journey" tag="section" class="dev-journey px-3 py-5 px-sm-5">
     <b-col sm="12" class="py-5">
       <h1 class="text-primary text-center pb-3">
-        Monthly Updates
+        Transparência
       </h1>
       <p class="text-center">
         Saiba o que o CodeLab anda fazendo!
